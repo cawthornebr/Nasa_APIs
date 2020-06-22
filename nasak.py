@@ -1,1 +1,1 @@
-nasak = 'API Key Here'
+nasak = '3eMYRu2EnhR7Ch0G1uF5wEchDaMlFbOcXt5r793i'
